@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TrelloJavaSEsampleProjectServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TrelloJavaSEsampleProjectServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
